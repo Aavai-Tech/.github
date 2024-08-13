@@ -1,7 +1,3 @@
-Adding graphics to your README can make it even more engaging and visually appealing. Here’s an enhanced version that includes placeholders for graphics:
-
----
-
 # ![AavaiTech Logo](https://via.placeholder.com/150x50) **Welcome to AavaiTech** 🎉
 
 ### 🌟 **Crafting Exceptional Digital Experiences** 🌟
